@@ -1,4 +1,14 @@
-### Welcome to my Github 👋
+
+## Hello, welcome to my GitHub! <img src="https://raw.githubusercontent.com/mstaatz/mstaatz/master/wave.gif" height="25px" width="25px">
+
+***
+
+<a href="https://www.linkedin.com/in/michael-staatz-751723207/">
+    <img src="https://img.shields.io/badge/LINKEDIN-12100E?logo=linkedin&color=09B603&logoColor=white" />
+</a>
+<a href="https://staatzstreich.de/">
+    <img src="https://img.shields.io/badge/WEBSITE-12100E?logo=html5&color=09B603&logoColor=white" />
+</a>
 
 
 <!--
