@@ -1,13 +1,7 @@
 ### Welcome to my Github 👋
 
-<!-- HTML approach -->
-<img src="https://raw.githubusercontent.com/mstaatz/mstaatz/master/mstaatz_bg.png&auto=format&fit=crop&w=1074"/>
 
-<!-- HTML approach -->
 <!--
-
-<img src="https://images.unsplash.com/photo-1511914265872-c40672604a80?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80"/>
-
 **mstaatz/mstaatz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
