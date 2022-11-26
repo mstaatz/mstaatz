@@ -18,7 +18,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="80" alt="React" />
 </a>&nbsp;&nbsp;
 
-<hr style="border:0.5px lightgrey">
+___
 
 <a href="https://www.linkedin.com/in/michael-staatz-751723207/">
     <img src="https://img.shields.io/badge/LINKEDIN-12100E?logo=linkedin&color=09B603&logoColor=white" />
