@@ -3,19 +3,19 @@
 
 
 <a href="https://www.php.net/" title="PHP" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" width="40" alt="PHP" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" width="80" alt="PHP" />
 </a>&nbsp;&nbsp;
 <a href="https://typo3.org/" title="TYPO3" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typo3/typo3-original.svg" width="40" alt="TYPO 3" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typo3/typo3-original.svg" width="80" alt="TYPO 3" />
 </a>&nbsp;&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="80" alt="JavaScript" />
 </a>&nbsp;&nbsp;
 <a href="https://www.typescriptlang.org/" title="TypeScript" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="80" alt="TypeScript" />
 </a>&nbsp;&nbsp;
 <a href="https://reactjs.org/" title="React" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" alt="React" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="80" alt="React" />
 </a>&nbsp;&nbsp;
 
 ***
