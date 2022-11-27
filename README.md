@@ -1,7 +1,6 @@
 
 ## Hello, welcome to my GitHub! <img src="https://raw.githubusercontent.com/mstaatz/mstaatz/master/wave.gif" height="25px" width="25px">
 
-
 <a href="https://www.php.net/" title="PHP" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" width="80" alt="PHP" />
 </a>&nbsp;&nbsp;
@@ -18,10 +17,18 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="80" alt="React" />
 </a>&nbsp;&nbsp;
 
-___
+##### Professional skills
+TYPO3 CMS, TYPO3 Extbase, PHP, OOP, JavaScript, MySQL, SQLite, Software development, jQuery, CSS, HTML, Git, Web development, REST, TypeScript, React, Docker, Backend
 
+##### Social skills
+Ability to work in a team, Commitment, Reliability, Flexibility
+
+##### Contact
 <a href="https://www.linkedin.com/in/michael-staatz-751723207/">
     <img src="https://img.shields.io/badge/LINKEDIN-12100E?logo=linkedin&color=09B603&logoColor=white" />
+</a>
+<a href="https://www.xing.com/profile/Michael_Staatz/">
+    <img src="https://img.shields.io/badge/XING-12100E?logo=xing&color=09B603&logoColor=white" />
 </a>
 <a href="https://staatzstreich.de/">
     <img src="https://img.shields.io/badge/WEBSITE-12100E?logo=html5&color=09B603&logoColor=white" />
