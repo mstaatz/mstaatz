@@ -18,7 +18,7 @@
 </a>&nbsp;&nbsp;
 
 ##### Professional skills
-TYPO3 CMS, TYPO3 Extbase, PHP, OOP, JavaScript, MySQL, SQLite, Software development, jQuery, CSS, HTML, Git, Web development, REST, TypeScript, React, Docker, Backend
+PHP, MySQL, SQLite, HTML, CSS, JavaScript, TypeScript, Git, Docker, TYPO3 Extbase, TYPO3 CMS, jQuery, React, Web development, OOP, Software development, Backend
 
 ##### Social skills
 Ability to work in a team, Commitment, Reliability, Flexibility
