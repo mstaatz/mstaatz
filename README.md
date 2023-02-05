@@ -18,7 +18,10 @@
 </a>&nbsp;&nbsp;
 
 ##### Professional skills
-PHP, MySQL, SQLite, HTML, CSS, JavaScript, TypeScript, Git, Docker, TYPO3 Extbase, TYPO3 CMS, jQuery, React, Web development, OOP, Software development, Backend
+PHP, MySQL, SQLite, HTML, CSS, JavaScript, TypeScript, Git, Docker, TYPO3 Extbase, TYPO3 CMS, jQuery, ReactJS, Web development, OOP, Software development, Backend
+
+##### Junior level skills
+C/C++, C#, Go, Rust
 
 ##### Social skills
 Ability to work in a team, Commitment, Reliability, Flexibility
@@ -35,7 +38,11 @@ Ability to work in a team, Commitment, Reliability, Flexibility
 </a>
 
 
+
 <!--
+<br />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=staatzstreich&layout=compact"/>
+
 **mstaatz/mstaatz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
