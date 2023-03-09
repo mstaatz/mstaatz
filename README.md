@@ -14,8 +14,9 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="80" alt="TypeScript" />
 </a>&nbsp;&nbsp;
 <a href="https://reactjs.org/" title="React" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="80" alt="React" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="80" alt="React" /></a>&nbsp;&nbsp;
 </a>&nbsp;&nbsp;
+<a href="https://nodejs.org/" title="Node.js" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="80" alt="Node.js" />
 </a>&nbsp;&nbsp;
 
