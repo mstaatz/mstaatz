@@ -16,9 +16,11 @@
 <a href="https://reactjs.org/" title="React" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="80" alt="React" />
 </a>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="80" alt="Node.js" />
+</a>&nbsp;&nbsp;
 
 ##### Professional skills
-PHP, MySQL, SQLite, HTML, CSS, JavaScript, TypeScript, Git, Docker, TYPO3 Extbase, TYPO3 CMS, jQuery, React, Web development, OOP, Software development, Backend
+PHP, MySQL, SQLite, HTML, CSS, JavaScript, TypeScript, Git, Docker, TYPO3 Extbase, TYPO3 CMS, jQuery, React, Node.js, Web development, OOP, Software development, Backend
 
 ##### Junior level skills
 C/C++, C#, Go, Rust
