@@ -14,14 +14,11 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="80" alt="TypeScript" />
 </a>&nbsp;&nbsp;
 <a href="https://reactjs.org/" title="React" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="80" alt="React" /></a>&nbsp;&nbsp;
-</a>&nbsp;&nbsp;
-<a href="https://nodejs.org/" title="Node.js" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="80" alt="Node.js" />
-</a>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="80" alt="React" />
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 ##### Professional skills
-PHP, MySQL, SQLite, HTML, CSS, JavaScript, TypeScript, Git, Docker, TYPO3 Extbase, TYPO3 CMS, jQuery, React, Node.js, Web development, OOP, Software development, Backend
+PHP, MySQL, SQLite, HTML, CSS, JavaScript, TypeScript, Git, Docker, TYPO3 Extbase, TYPO3 CMS, jQuery, React, Web development, OOP, Software development, Backend
 
 ##### Junior level skills
 C/C++, C#, Go, Rust
@@ -31,13 +28,13 @@ Ability to work in a team, Commitment, Reliability, Flexibility
 
 ##### Contact
 <a href="https://www.linkedin.com/in/michael-staatz-751723207/">
-    <img src="https://img.shields.io/badge/LINKEDIN-12100E?logo=linkedin&color=09B603&logoColor=white" />
+    <img src="https://img.shields.io/badge/LINKEDIN-12100E?logo=linkedin&color=09B603&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://www.xing.com/profile/Michael_Staatz/">
-    <img src="https://img.shields.io/badge/XING-12100E?logo=xing&color=09B603&logoColor=white" />
+    <img src="https://img.shields.io/badge/XING-12100E?logo=xing&color=09B603&logoColor=white" alt="Xing" />
 </a>
 <a href="https://staatzstreich.de/">
-    <img src="https://img.shields.io/badge/WEBSITE-12100E?logo=html5&color=09B603&logoColor=white" />
+    <img src="https://img.shields.io/badge/WEBSITE-12100E?logo=html5&color=09B603&logoColor=white" alt="staatzstreich.de" />
 </a>
 
 
