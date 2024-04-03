@@ -1,4 +1,3 @@
-
 ## Hello, welcome to my GitHub! <img src="https://raw.githubusercontent.com/mstaatz/mstaatz/master/wave.gif" height="25px" width="25px">
 
 <a href="https://www.php.net/" title="PHP" target="_blank">
@@ -6,6 +5,9 @@
 </a>&nbsp;&nbsp;
 <a href="https://typo3.org/" title="TYPO3" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typo3/typo3-original.svg" width="80" alt="TYPO 3" />
+</a>&nbsp;&nbsp;
+<a href="https://symfony.com/" title="Symfony" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original.svg" width="80" alt="TYPO 3" />
 </a>&nbsp;&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="80" alt="JavaScript" />
@@ -15,18 +17,25 @@
 </a>&nbsp;&nbsp;
 <a href="https://reactjs.org/" title="React" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="80" alt="React" />
+</a>&nbsp;&nbsp;
+<a href="https://astro.build" title="Astro" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original.svg" width="80" alt="Astro" />
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 ##### Professional skills
+
 PHP, MySQL, SQLite, HTML, CSS, JavaScript, TypeScript, Git, Docker, TYPO3 Extbase, TYPO3 CMS, jQuery, React, Web development, OOP, Software development, Backend
 
 ##### Junior level skills
+
 C/C++, C#, Go, Rust
 
 ##### Social skills
+
 Ability to work in a team, Commitment, Reliability, Flexibility
 
 ##### Contact
+
 <a href="https://www.linkedin.com/in/michael-staatz-751723207/">
     <img src="https://img.shields.io/badge/LINKEDIN-12100E?logo=linkedin&color=09B603&logoColor=white" alt="LinkedIn" />
 </a>
@@ -36,8 +45,6 @@ Ability to work in a team, Commitment, Reliability, Flexibility
 <a href="https://staatzstreich.de/">
     <img src="https://img.shields.io/badge/WEBSITE-12100E?logo=html5&color=09B603&logoColor=white" alt="staatzstreich.de" />
 </a>
-
-
 
 <!--
 <br />
