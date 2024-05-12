@@ -18,7 +18,7 @@
 <a href="https://reactjs.org/" title="React" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="80" alt="React" />
 </a>&nbsp;&nbsp;
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 ##### Professional skills
 
