@@ -2,23 +2,22 @@
 
 <a href="https://www.php.net/" title="PHP" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" width="80" alt="PHP" />
-</a>&nbsp;&nbsp;
+</a>
 <a href="https://typo3.org/" title="TYPO3" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typo3/typo3-original.svg" width="80" alt="TYPO 3" />
-</a>&nbsp;&nbsp;
+</a>
 <a href="https://symfony.com/" title="Symfony" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original.svg" width="80" alt="TYPO 3" />
-</a>&nbsp;&nbsp;
+</a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="80" alt="JavaScript" />
-</a>&nbsp;&nbsp;
+</a>
 <a href="https://www.typescriptlang.org/" title="TypeScript" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="80" alt="TypeScript" />
-</a>&nbsp;&nbsp;
+</a>
 <a href="https://reactjs.org/" title="React" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="80" alt="React" />
-</a>&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;
+</a>
 
 ##### Professional skills
 
